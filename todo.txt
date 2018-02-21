@@ -1,0 +1,5 @@
+1. Left obstacles correct counting
+2. HorizonLine correct width
+3. Good jockes collect
+4. You win restart button
+5. T-rex blink
